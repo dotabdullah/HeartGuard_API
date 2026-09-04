@@ -1,0 +1,47 @@
+[
+  {
+    "age": 55,
+    "sex": 1,
+    "chest_pain_type": 2,
+    "resting_bp": 140,
+    "cholesterol": 240,
+    "fasting_bs": 0,
+    "resting_ecg": 1,
+    "max_heart_rate": 150,
+    "exercise_angina": 0,
+    "oldpeak": 1.0,
+    "st_slope": 2,
+    "cardiac_risk": 1,
+    "thallium_stress_test": 2
+  },
+  {
+    "age": 45,
+    "sex": 0,
+    "chest_pain_type": 0,
+    "resting_bp": 120,
+    "cholesterol": 190,
+    "fasting_bs": 0,
+    "resting_ecg": 0,
+    "max_heart_rate": 165,
+    "exercise_angina": 0,
+    "oldpeak": 0.2,
+    "st_slope": 2,
+    "cardiac_risk": 0,
+    "thallium_stress_test": 1
+  },
+  {
+    "age": 62,
+    "sex": 1,
+    "chest_pain_type": 3,
+    "resting_bp": 150,
+    "cholesterol": 280,
+    "fasting_bs": 1,
+    "resting_ecg": 1,
+    "max_heart_rate": 130,
+    "exercise_angina": 1,
+    "oldpeak": 2.5,
+    "st_slope": 1,
+    "cardiac_risk": 2,
+    "thallium_stress_test": 3
+  }
+]
