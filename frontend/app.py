@@ -6,7 +6,7 @@ import requests
 # CONFIGURATION
 # ============================================================
 
-FASTAPI_URL = "https://heartguard-api.fastapicloud.dev/"
+FASTAPI_URL = "https://heartguard-api.fastapicloud.dev"
 
 st.set_page_config(
     page_title="HeartGuard AI",
